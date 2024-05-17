@@ -81,15 +81,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/julio-pacheco-ferreira-dev">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/julioferreiraguitar/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
+
+   
+    </p>
 <br/><br/>
 <p>
 
 ---
 
 
-# request-recipe-to-create-an-e-book-with-IA-MIDJOURNEY-AND-LEONARDO.IA
-Projeto E-BOOK Gerado por I.A
+
